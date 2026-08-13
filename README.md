@@ -1,15 +1,318 @@
-# 💫 About Me:
-# 👋 Hi, I'm Nepal Singh<br><br>### SAP ABAP Consultant | RAP | CDS | AMDP | OData | S/4HANA<br><br>I'm an **SAP ABAP Consultant with 5+ years of experience** in SAP development, currently focusing on **modern ABAP development, SAP RAP, CDS Views, Fiori Elements, AMDP, OData, and S/4HANA Clean Core development**.<br><br>I enjoy building scalable, performance-optimized SAP applications and modernizing traditional ABAP developments using the latest S/4HANA development approaches.<br><br>---<br><br>## 🚀 About Me<br><br>* 💼 SAP ABAP Consultant<br>* 🧑‍💻 5+ years of SAP ABAP development experience<br>* 🚀 Specialized in **SAP RAP & S/4HANA Development**<br>* 📊 Experienced in **CDS Views & AMDP**<br>* 🌐 Experienced in **OData & API-based integrations**<br>* 🎨 Developing applications using **Fiori Elements**<br>* ⚡ Interested in **ABAP New Syntax & Performance Optimization**<br>* 🧩 Experienced in both **Managed and Unmanaged RAP**<br>* 🔄 Working with SAP SD, MM, FI & PP processes<br>* 🧹 Currently focusing on **Clean Core & extensibility concepts**<br>* 📚 Continuously learning modern SAP technologies<br><br>---<br><br>## 🛠️ Technical Skills<br><br>### 🔹 SAP ABAP<br><br>`ABAP` `ABAP OO` `ABAP New Syntax` `DDIC` `ALV`<br>`Classical Reports` `Interactive Reports` `Module Pool`<br>`Function Modules` `RFC` `BDC` `BAPI` `Enhancements`<br>`BAdI` `Background Jobs` `Table Maintenance Generator`<br><br>### 🔹 SAP RAP<br><br>`SAP RAP` `Managed RAP` `Unmanaged RAP`<br>`Behavior Definition` `Actions` `Validations` `Determinations`<br>`Prechecks` `Feature Control` `Side Effects`<br>`Authorizations` `Custom Entities` `Fiori Elements`<br><br>### 🔹 CDS & HANA<br><br>`CDS Views` `CDS Table Functions` `AMDP`<br>`HANA Optimized Development` `Data Modeling`<br>`Performance Optimization` `Code Pushdown`<br><br>### 🔹 Integration & APIs<br><br>`OData V2` `OData V4` `BAPI` `RFC` `BDC`<br>`Proxies` `REST APIs` `FTP Integration`<br>`Government Portal Integrations`<br><br>### 🔹 Forms & Output<br><br>`Adobe Forms` `Smart Forms` `Mail Templates`<br>`Output File Processing`<br><br>### 🔹 SAP Functional Areas<br><br>`SAP SD` `SAP MM` `SAP FI` `SAP PP`<br>`Order-to-Cash` `Sales Orders` `Purchase Orders`<br>`Material Management` `Invoice Processing`<br><br>### 🔹 Tools & Platforms<br><br>`SAP GUI` `Eclipse` `ADT` `Git` `GitHub`<br>`S/4HANA` `Fiori Elements`<br><br>---<br><br>## 💻 Featured SAP Development Areas<br><br>### 🚀 SAP RAP Applications<br><br>Experience developing RAP-based applications including:<br><br>* Material Reservation applications<br>* Sales Order creation applications<br>* Excel Upload applications<br>* O2C List Reports<br>* Purchase Order Reports<br>* RAP applications with custom actions<br>* Managed and Unmanaged RAP scenarios<br>* Feature control and authorization<br>* Validations and determinations<br>* Side effects<br>* Prechecks<br><br>### 📊 CDS & AMDP<br><br>* CDS-based reporting<br>* CDS table functions<br>* AMDP-based data processing<br>* Migration of traditional reports to CDS<br>* HANA-optimized data retrieval<br>* Performance optimization<br><br>### 🌐 OData & Integration<br><br>* OData services for SAP applications<br>* Sales Order reporting services<br>* DMS and workflow-related integrations<br>* API-oriented development<br>* Government portal integrations<br>* File-based integrations<br><br>### 🎨 Fiori Elements<br><br>Developing modern SAP applications using:<br><br>* List Reports<br>* Object Pages<br>* Fiori Elements<br>* RAP-based services<br>* Custom Actions<br>* Dynamic Feature Control<br>* UI annotations<br><br>---<br><br>## 📌 Professional Experience Highlights<br><br>### SAP RAP & S/4HANA<br><br>* Developed RAP application for Material Reservation creation using standard SAP RAP Business Objects.<br>* Developed O2C List Report using RAP, CDS Views and Fiori Elements.<br>* Developed end-to-end Excel Upload and Sales Order Creation application.<br>* Implemented validations, determinations, prechecks, side effects and feature control.<br>* Developed Fiori-based Purchase Order reporting applications.<br>* Developed RAP applications using both managed and unmanaged approaches.<br><br>### ABAP Development<br><br>* Developed multiple ALV and classical reports.<br>* Developed Adobe Forms and Smart Forms.<br>* Developed BAPI, BDC and RFC-based solutions.<br>* Implemented enhancements and validations in standard SAP transactions.<br>* Developed conversion and upload programs.<br>* Worked on program optimization and performance improvements.<br><br>### Integration<br><br>* Developed OData services.<br>* Worked on DMS and ISOP integrations.<br>* Developed integration programs for government portals such as GRA, ZRA and FIRS.<br>* Developed FTP-based output file processing.<br>* Worked on API-oriented CDS and AMDP solutions.<br><br>---<br><br>## 📚 Currently Learning<br><br>I'm continuously improving my skills in modern SAP development:<br><br>```text<br>SAP RAP<br>   ↓<br>CDS View Entities<br>   ↓<br>Behavior Definitions<br>   ↓<br>Managed / Unmanaged RAP<br>   ↓<br>Fiori Elements<br>   ↓<br>OData V4<br>   ↓<br>S/4HANA Extensibility<br>   ↓<br>Clean Core<br>   ↓<br>SAP BTP<br>```<br><br>---<br><br>## 🎯 My Development Focus<br><br>My goal is to move from traditional ABAP development toward **modern, clean, cloud-ready SAP development**.<br><br>I'm particularly interested in:<br><br>* 🧹 SAP Clean Core<br>* 🚀 RAP<br>* 📦 S/4HANA Extensibility<br>* 🌐 OData V4<br>* 🎨 Fiori Elements<br>* ⚡ HANA & Performance Optimization<br>* ☁️ SAP BTP<br>* 🔗 API & Integration Development<br>* 🧑‍💻 Git-based ABAP Development<br>* 📚 Modern ABAP Syntax<br><br>---<br><br>## 🤝 Let's Connect<br><br>I'm always interested in connecting with SAP professionals, developers and technology enthusiasts to learn, collaborate and share knowledge.<br><br>**SAP ABAP | RAP | CDS | AMDP | OData | Fiori | S/4HANA | Clean Core**<br><br>---<br><br>⭐ *Thanks for visiting my GitHub profile!*<br><br>**Keep Learning • Keep Building • Keep Improving 🚀**<br><br>
+# 👋 Hi, I'm Nepal Singh
 
+### 🚀 SAP ABAP Consultant | RAP | S/4HANA | CDS | AMDP | OData
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nepasingh Bhayal Rajputh) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Nepalsingh Rajputh Bhayal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nepalsingh9990@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nepalsinghrajputh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=nepalsinghrajputh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nepalsinghrajputh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+> **Building modern SAP applications by combining strong ABAP fundamentals with RAP, CDS, Fiori Elements and S/4HANA development.**
+
+I'm an **SAP ABAP Consultant with 5+ years of experience** in SAP development, with hands-on experience across **RAP, CDS Views, AMDP, OData, Fiori Elements, ABAP, integrations, reports, enhancements and forms**.
+
+Currently, my primary focus is on **modern S/4HANA development, SAP RAP, Clean Core, extensibility, performance optimization and API-driven development**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=nepalsinghrajputh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+* 💼 SAP ABAP Consultant
+* 🚀 5+ years of SAP ABAP development experience
+* 🧩 SAP RAP — Managed & Unmanaged
+* 📊 CDS Views & AMDP
+* 🎨 Fiori Elements
+* 🌐 OData & API-based integrations
+* ⚡ Modern ABAP Syntax & Performance Optimization
+* 🧹 S/4HANA Clean Core & Extensibility
+* 🔄 SAP SD | MM | FI | PP
+* ☁️ Exploring SAP BTP & modern SAP architecture
+* 🧑‍💻 Git & GitHub-based development
+
+---
+
+# 🛠️ Technology Stack
+
+### 🚀 Modern SAP Development
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+![RAP](https://img.shields.io/badge/SAP%20RAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+![ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+![S/4HANA](https://img.shields.io/badge/S%2F4HANA-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+
+`RAP` `Managed RAP` `Unmanaged RAP` `Behavior Definitions`
+`Actions` `Validations` `Determinations` `Prechecks`
+`Feature Control` `Side Effects` `Authorizations` `Custom Entities`
+
+---
+
+### 📊 Data Modeling & HANA
+
+`CDS Views` `CDS View Entities` `CDS Table Functions`
+`AMDP` `HANA Optimization` `Code Pushdown`
+`Data Modeling` `Performance Optimization`
+
+---
+
+### 🎨 Fiori & UI
+
+![Fiori](https://img.shields.io/badge/Fiori-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+
+`Fiori Elements` `List Report` `Object Page`
+`UI Annotations` `Custom Actions` `Dynamic Feature Control`
+
+---
+
+### 🌐 Integration & APIs
+
+`OData V2` `OData V4` `REST APIs`
+`BAPI` `RFC` `BDC` `Proxies`
+`FTP Integration` `File-based Integration`
+`Government Portal Integration`
+
+---
+
+### 💻 Core ABAP
+
+`ABAP` `ABAP OO` `ABAP New Syntax` `DDIC`
+`ALV Reports` `Classical Reports` `Interactive Reports`
+`Module Pool` `Function Modules` `Enhancements`
+`BAdI` `Background Jobs` `Table Maintenance Generator`
+
+---
+
+### 📄 Forms & Output
+
+`Adobe Forms` `Smart Forms` `Mail Templates`
+`Output File Processing`
+
+---
+
+### 🏢 SAP Functional Areas
+
+`SAP SD` `SAP MM` `SAP FI` `SAP PP`
+
+`Order-to-Cash` `Sales Orders` `Purchase Orders`
+`Material Management` `Invoice Processing`
+
+---
+
+# 💡 What I Build
+
+### 🚀 RAP Applications
+
+I enjoy developing modern SAP applications using **RAP + CDS + Fiori Elements**.
+
+Some of the solutions I've worked on include:
+
+* 📦 Material Reservation Applications
+* 🛒 Sales Order Creation Applications
+* 📊 O2C List Reports
+* 📋 Purchase Order Reports
+* 📤 Excel Upload Applications
+* ⚙️ Custom RAP Actions
+* 🔐 Role-based Authorizations
+* 🎛️ Dynamic Feature Control
+* ✅ Validations & Determinations
+* 🔄 Side Effects
+* 🛡️ Prechecks
+
+---
+
+# 📊 SAP Data & Performance
+
+My development experience also includes:
+
+* CDS-based reporting
+* CDS Table Functions
+* AMDP development
+* HANA-optimized data retrieval
+* Code Pushdown
+* Migration of traditional reports to CDS
+* Performance optimization
+* Large-volume data processing
+
+---
+
+# 🌐 Integration Experience
+
+I have worked on SAP integration scenarios involving:
+
+* OData Services
+* REST/API-based solutions
+* BAPI integrations
+* RFC
+* BDC
+* Proxy-based integrations
+* FTP file processing
+* DMS integrations
+* Workflow-related integrations
+* Government portal integrations
+
+Including integrations with **GRA, ZRA and FIRS** as part of SAP-based business processes.
+
+---
+
+# 🏗️ SAP Development Journey
+
+```text
+Traditional ABAP
+      │
+      ├── Reports
+      ├── ALV
+      ├── BAPI / BDC / RFC
+      ├── Enhancements
+      └── Forms
+             │
+             ▼
+        CDS + AMDP
+             │
+             ▼
+          OData
+             │
+             ▼
+       SAP RAP
+             │
+             ├── Managed RAP
+             ├── Unmanaged RAP
+             ├── Actions
+             ├── Validations
+             ├── Determinations
+             ├── Side Effects
+             └── Authorizations
+             │
+             ▼
+      Fiori Elements
+             │
+             ▼
+      S/4HANA Extensibility
+             │
+             ▼
+        Clean Core
+             │
+             ▼
+        SAP BTP 🚀
+```
+
+---
+
+# 📚 Currently Learning & Exploring
+
+I'm continuously developing my skills in modern SAP technologies.
+
+### 🎯 Current Focus
+
+* 🚀 SAP RAP
+* 📊 CDS View Entities
+* 🌐 OData V4
+* 🧹 SAP Clean Core
+* 📦 S/4HANA Extensibility
+* 🎨 Fiori Elements
+* ⚡ Modern ABAP Syntax
+* 🔥 HANA Performance Optimization
+* ☁️ SAP BTP
+* 🔗 API & Integration Development
+* 🧑‍💻 Git-based ABAP Development
+
+---
+
+# 📌 Professional Highlights
+
+### SAP RAP & S/4HANA
+
+* Developed a RAP application for **Material Reservation creation** using a standard SAP RAP Business Object.
+* Developed an **Order-to-Cash List Report** using RAP, CDS Views and Fiori Elements.
+* Developed an end-to-end **Excel Upload + Sales Order Creation** application.
+* Implemented **dynamic feature control, role-based authorization, actions, prechecks, validations, determinations and side effects**.
+* Developed a **Fiori-based Purchase Order Report** with advanced filtering and Excel download.
+* Developed RAP applications using both **Managed and Unmanaged approaches**.
+
+### Traditional ABAP
+
+* ALV & Classical Reports
+* Interactive Reports
+* Module Pool Applications
+* BAPI / BDC / RFC
+* Enhancements & BAdIs
+* Adobe Forms
+* Smart Forms
+* Conversion Programs
+* Upload Programs
+* Background Jobs
+* Program Optimization
+
+### Integration
+
+* OData Services
+* API-oriented development
+* DMS integrations
+* FTP file processing
+* Government portal integrations
+* CDS & AMDP-based API solutions
+
+---
+
+# 🧠 My SAP Development Philosophy
+
+```text
+Understand the Business
+        ↓
+Design the Data Model
+        ↓
+Use CDS First
+        ↓
+Push Processing to HANA
+        ↓
+Build with RAP
+        ↓
+Expose via OData
+        ↓
+Consume with Fiori Elements
+        ↓
+Follow Clean Core
+        ↓
+Optimize & Keep It Simple
+```
+
+> **Modern SAP development is not just about writing ABAP — it's about designing clean, scalable and maintainable business applications.**
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=nepalsinghrajputh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img src="https://streak-stats.demolab.com/?user=nepalsinghrajputh&theme=dark&hide_border=false" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nepalsinghrajputh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/nepasingh-bhayal-rajputh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nepalsingh9990@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+### 👨‍💻 SAP ABAP Consultant
+
+**RAP • CDS • AMDP • OData • Fiori Elements • S/4HANA • Clean Core**
+
+> ⭐ **Keep Learning • Keep Building • Keep Improving 🚀**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=nepalsinghrajputh\&label=Profile%20Views\&color=0e75b6\&style=flat)
