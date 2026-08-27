@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nepal Singh
 
-### 🚀 SAP ABAP Consultant | RAP | S/4HANA | CDS | AMDP | OData
+### 🚀 SAP ABAP Consultant | RAP | S/4HANA | CDS | AMDP | OData | REST API's | Proxies | SAP Built Workflows | Adobe & Smartforms            | Module Pool | Enhancements | New ABAP Syntax | BDC/BAPI | DDIC
 
 > **Building modern SAP applications by combining strong ABAP fundamentals with RAP, CDS, Fiori Elements and S/4HANA development.**
 
