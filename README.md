@@ -22,7 +22,7 @@ Currently, my primary focus is on **modern S/4HANA development, SAP RAP, Clean C
 * 🧹 S/4HANA Clean Core & Extensibility
 * 🔄 SAP SD | MM | FI | PP
 * ☁️ Exploring SAP BTP & modern SAP architecture
-* 🧑‍💻 Git & GitHub-based development
+* 🧑‍💻 SAP Built Workflows
 
 ---
 
